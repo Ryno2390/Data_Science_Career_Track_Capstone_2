@@ -1,5 +1,5 @@
 # Enough About Me, Let's Talk About Coup
-This project attempts a machine learning analysis of coup attempts in Python using a variable threshold Random Forest Regressor model.
+A machine learning analysis of coup attempts in Python using a variable threshold Random Forest Regressor model.
 
 ## Documentation
 
