@@ -11,6 +11,8 @@ Source Code: Capstone 2.ipynb
 
 Milestone Report: Capstone Project 2 - Milestone Report.pdf
 
+Original Project Proposal:
+
 Codebook: reign_codebook.pdf
 
 Important Notes: reign_notes.pdf
