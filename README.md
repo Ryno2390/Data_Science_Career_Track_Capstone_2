@@ -3,9 +3,9 @@ This project attempts a machine learning analysis of coup attempts in Python usi
 
 ## Documentation
 
-Final Paper:
+Final Paper: WIP
 
-Final Presentation:
+Final Presentation: WIP
 
 Source Code: Capstone 2.ipynb
 
