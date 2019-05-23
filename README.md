@@ -3,7 +3,7 @@ A machine learning analysis of coup attempts in Python using a variable threshol
 
 ## Documentation
 
-Final Paper: WIP
+Final Paper: Capstone Project 2 - Final Paper.pdf
 
 Final Presentation: WIP
 
